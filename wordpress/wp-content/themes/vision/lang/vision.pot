@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vision WordPress Theme\n"
+"POT-Creation-Date: 2015-01-10 16:41+0200\n"
+"PO-Revision-Date: 2015-01-10 16:41+0200\n"
+"Last-Translator: Burak Aydın <burak_sdu@outlook.com>\n"
+"Language-Team: Burak Aydın <burak_sdu@outlook.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Page not found. You can search below"
+msgstr ""
+
+#: ../archive.php:14
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../author.php:14
+msgid "Author Posts"
+msgstr ""
+
+#: ../category.php:14
+msgid "Category Posts"
+msgstr ""
+
+#: ../comments.php:9 ../content-aside.php:26 ../content.php:36 ../page.php:26
+#: ../single.php:37
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comment ( 1 )"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comments ( % )"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:21 ../content-chat.php:21 ../content.php:31
+#: ../single.php:32
+msgid "POSTED BY"
+msgstr ""
+
+#: ../content-aside.php:21 ../content-chat.php:21 ../content.php:31
+#: ../single.php:32
+msgid "IN"
+msgstr ""
+
+#: ../content-aside.php:23 ../content-chat.php:23 ../content.php:33
+#: ../page.php:23 ../single.php:34
+msgid "Edit"
+msgstr ""
+
+#: ../content-aside.php:26 ../content.php:36 ../page.php:26 ../single.php:37
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-aside.php:26 ../content.php:36 ../page.php:26 ../single.php:37
+msgid "% Comments"
+msgstr ""
+
+#: ../content-aside.php:32 ../content.php:42
+msgid "Pages:"
+msgstr ""
+
+#: ../content-none.php:3
+msgid "No posts found. You can search the below."
+msgstr ""
+
+#: ../content.php:43
+msgid "Read More"
+msgstr ""
+
+#: ../footer.php:9
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../footer.php:15
+msgid "Theme by"
+msgstr ""
+
+#: ../footer.php:15
+msgid "Powered by"
+msgstr ""
+
+#: ../functions.php:34
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:35
+msgid "Mobile Top Menu"
+msgstr ""
+
+#: ../functions.php:136
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:173
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:174
+msgid "This sidebar is located right side."
+msgstr ""
+
+#: ../functions.php:186
+msgid "Left Footer Widget"
+msgstr ""
+
+#: ../functions.php:187 ../functions.php:201 ../functions.php:214
+msgid "This widget is located left side."
+msgstr ""
+
+#: ../functions.php:200
+msgid "Middle Footer Widget"
+msgstr ""
+
+#: ../functions.php:213
+msgid "Right Footer Widget"
+msgstr ""
+
+#: ../functions.php:384 ../functions/tgm-plugin/tgm-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:385 ../functions/tgm-plugin/tgm-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:386 ../functions/tgm-plugin/tgm-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:387
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:398 ../functions/tgm-plugin/tgm-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:399 ../functions/tgm-plugin/tgm-activation.php:212
+#: ../functions/tgm-plugin/tgm-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:400
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:544
+#: ../functions/tgm-plugin/tgm-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1290
+#: ../functions/tgm-plugin/tgm-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1312
+#: ../functions/tgm-plugin/tgm-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2065
+#: ../functions/tgm-plugin/tgm-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2065
+#: ../functions/tgm-plugin/tgm-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/tgm-plugin/tgm-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../search.php:14
+msgid "Search Results for"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: ../tag.php:14
+msgid "Tag Posts"
+msgstr ""

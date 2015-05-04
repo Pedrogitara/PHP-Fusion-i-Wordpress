@@ -1,0 +1,18 @@
+/*
+Theme Name: Vision
+Theme URI: http://burak-aydin.com/vision-page/
+Author: Burak Aydin
+Author URI: http://burak-aydin.com/
+Description: Vision is a WordPress theme for blogs that are designed to have beautiful typography. It is developed using mobile-first responsive design, ensuring that your blog will be no less beautiful when viewed on a smartphone or tablet. In addition, It have widgets available (one sidebar and three footer column), Vision also supports theme customizer, top responsive slider, custom menu, custom background, enabling flexible configuration and more. 
+Version: 1.2
+Tags: black, custom-menu, custom-background, featured-images, right-sidebar, red, responsive-layout, post-formats, sticky-post, translation-ready, threaded-comments, two-columns, three-columns, white
+Text Domain: vision
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+@import url('css/bootstrap.css');
+@import url('css/font-awesome.css');
+@import url('css/flexslider.css');
+@import url('css/style.css');

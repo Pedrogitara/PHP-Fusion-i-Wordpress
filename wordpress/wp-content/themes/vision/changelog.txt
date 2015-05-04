@@ -1,0 +1,24 @@
+== 1.2 ==
+Fixed: Comment area styling
+Fixed: Localization
+
+== 1.1.8 ==
+Some Header and Footer CSS improvement.
+a CCS file was removed.
+Some edit in Footer widget area.
+
+== 1.1.7 ==
+
+Slider was fixed as responsive.
+Fixed : some CSS issues.
+
+
+== 1.1.4 == 
+
+Fixed : Some theme issues.
+Fixed : Comment form's CSS issue.
+
+
+== 1.1.3 ==
+
+Fixed : Some slider issues.
